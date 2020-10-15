@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Nickuks/CLionProjects/dsba-ads2-wshp04-master/dsba-ads2-wshp04-master/code/src/ugraph/main.cpp
+iostream
+-
+ugraph.hpp
+C:/Users/Nickuks/CLionProjects/dsba-ads2-wshp04-master/dsba-ads2-wshp04-master/code/src/ugraph/ugraph.hpp
+
+C:/Users/Nickuks/CLionProjects/dsba-ads2-wshp04-master/dsba-ads2-wshp04-master/code/src/ugraph/ugraph.hpp
+set
+-
+map
+-
+

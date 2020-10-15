@@ -1,0 +1,3 @@
+C:/Users/Nickuks/CLionProjects/dsba-ads2-wshp04-master/dsba-ads2-wshp04-master/code/src/cmake-build-debug/CMakeFiles/ugraph.dir
+C:/Users/Nickuks/CLionProjects/dsba-ads2-wshp04-master/dsba-ads2-wshp04-master/code/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Nickuks/CLionProjects/dsba-ads2-wshp04-master/dsba-ads2-wshp04-master/code/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
